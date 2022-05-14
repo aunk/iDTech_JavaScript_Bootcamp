@@ -1,1 +1,2 @@
 # JavaScript Bootcamp
+In this course, you'll learn about the fundamental concepts of Javascript and computational thinking. You will get to set up everything you need on your machine to dive into coding, including functions, arrays, and scope. Throughout this course, you will be executing code and even exploring simple animations, finally building up to working with callback function as well as some of the newest feautres of EXMAScript, the standard for Javascript, which will lay a foundation for working with aysncrhonous code. 
